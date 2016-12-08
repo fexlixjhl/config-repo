@@ -1,6 +1,10 @@
 info:
   description: Spring Cloud Samples
-  author: julio muñoz
+  author: fjhl
+  
+server:
+  port: 8888
+  
   
 eureka:
   hostname: localhost
